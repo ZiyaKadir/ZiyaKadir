@@ -97,12 +97,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Experience Breakdown
 
-![](https://github-readme-stats.vercel.app/api?username=ZiyaKadir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ZiyaKadir&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyaKadir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> Relative hands-on experience across languages and frameworks — based on real projects, coursework, and professional work.
 
----
+| Technology | Experience |
+|---|---|
+| **C** | ████████████████████ ·· ~90% |
+| **C++** | ██████████████████·· ·· ~80% |
+| **TypeScript / JavaScript** | ███████████████ ····· ~70% |
+| **React / Next.js** | ███████████████ ····· ~70% |
+| **NestJS / Node.js** | ███████████████ ····· ~70% |
+| **Python** | █████████████ ······· ~60% |
+| **GraphQL + Prisma** | ████████████ ········ ~55% |
+| **Java / Spring Boot** | ██████████ ·········· ~45% |
+| **Flutter** | █████ ··············· ~25% |
 
-[![](https://komarev.com/ghpvc/?username=ZiyaKadir&color=blue)](https://github.com/ZiyaKadir)
+> *C/C++ proficiency built through École 42 Cursus, GTU coursework, and SD-BELT embedded systems work.*
+> *TypeScript/React/NestJS experience includes professional work in private repositories.*
