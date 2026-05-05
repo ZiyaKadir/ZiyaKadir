@@ -12,47 +12,9 @@
 
 ## 🌐 Socials
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://portfolio-theta-lyart-65.vercel.app/en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziyakadir-tokluoglu)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zktokluoglu@gmail.com)
-
----
-
-## 🚀 Featured Projects
-
-### 🏭 [SD-BELT — AI-Powered Smart Conveyor Belt Quality Control System](https://github.com/ZiyaKadir/SD-BELT)
-
-> Full-stack industrial IoT platform for real-time visual quality inspection using edge AI.
-> Built as a capstone project at Gebze Technical University.
-
-| Layer | Technology |
-|---|---|
-| 🤖 AI / Vision | YOLOv8 on **Hailo8 NPU**, OpenCV, custom dataset training |
-| 🖥️ Desktop | Qt 6 / C++ monitoring dashboard with live camera feeds |
-| 📱 Mobile | Qt Quick / QML cross-platform remote monitoring app |
-| 🌐 Backend | Spring Boot REST API + WebSocket real-time notifications |
-| ⚙️ Embedded | Raspberry Pi 4 + Arduino Uno, servo motor sorting, HC-SR04 |
-
-**What it does:** Detects fresh vs. rotten fruits/vegetables (6 classes) on a moving conveyor belt using 3 synchronized cameras and automatically sorts products via a servo mechanism — all running at ~30 FPS on edge hardware.
-
----
-
-### 🎓 [Graduation Project — ML Audio Classifier for Raspberry Pi Pico](https://github.com/ZiyaKadir/Graduation_Project)
-> Machine learning audio classification model designed and optimized for embedded microcontroller deployment (RP2040).
-> **Tech:** Python · Jupyter Notebook · TensorFlow · Edge ML
-
----
-
-### 🔵 [42 Cursus](https://github.com/ZiyaKadir/42_cursus) & [42 Piscine](https://github.com/ZiyaKadir/42-Piscine)
-> Core curriculum + selection process projects from **École 42 Kocaeli**.
-> Covers: shell implementation, memory allocators, multithreading, process management, network programming.
-> **Tech:** C · Unix · peer learning under zero-instruction pressure
-
----
-
-### 🏛️ [Gebze Technical University](https://github.com/ZiyaKadir/GEBZE-TECHNICAL-UNIVERSITY) · [Politechnika Gdańska](https://github.com/ZiyaKadir/Politechnika-Gdanska)
-> Academic projects from GTU Computer Engineering + Erasmus exchange semester in Poland.
-> Covers: logic gate & transistor design (Intel Quartus, Magic VLSI), image processing, algorithms.
-> **Tech:** C · C++ · VHDL
 
 ---
 
@@ -94,6 +56,45 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏭 [SD-BELT — AI-Powered Smart Conveyor Belt Quality Control System](https://github.com/ZiyaKadir/SD-BELT)
+
+> Full-stack industrial IoT platform for real-time visual quality inspection using edge AI.
+> Built as a capstone project at Gebze Technical University.
+
+| Layer | Technology |
+|---|---|
+| 🤖 AI / Vision | YOLOv8 on **Hailo8 NPU**, OpenCV, custom dataset training |
+| 🖥️ Desktop | Qt 6 / C++ monitoring dashboard with live camera feeds |
+| 📱 Mobile | Qt Quick / QML cross-platform remote monitoring app |
+| 🌐 Backend | Spring Boot REST API + WebSocket real-time notifications |
+| ⚙️ Embedded | Raspberry Pi 4 + Arduino Uno, servo motor sorting, HC-SR04 |
+
+**What it does:** Detects fresh vs. rotten fruits/vegetables (6 classes) on a moving conveyor belt using 3 synchronized cameras and automatically sorts products via a servo mechanism — all running at ~30 FPS on edge hardware.
+
+---
+
+### 🎓 [Graduation Project — ML Audio Classifier for Raspberry Pi Pico](https://github.com/ZiyaKadir/Graduation_Project)
+> Machine learning audio classification model designed and optimized for embedded microcontroller deployment (RP2040).
+> **Tech:** Python · Jupyter Notebook · TensorFlow · Edge ML
+
+---
+
+### 🔵 [42 Cursus](https://github.com/ZiyaKadir/42_cursus) & [42 Piscine](https://github.com/ZiyaKadir/42-Piscine)
+> Core curriculum + selection process projects from **École 42 Kocaeli**.
+> Covers: shell implementation, memory allocators, multithreading, process management, network programming.
+> **Tech:** C · Unix · peer learning under zero-instruction pressure
+
+---
+
+### 🏛️ [Gebze Technical University](https://github.com/ZiyaKadir/GEBZE-TECHNICAL-UNIVERSITY) · [Politechnika Gdańska](https://github.com/ZiyaKadir/Politechnika-Gdanska)
+> Academic projects from GTU Computer Engineering + Erasmus exchange semester in Poland.
+> Covers: logic gate & transistor design (Intel Quartus, Magic VLSI), image processing, algorithms.
+> **Tech:** C · C++ · VHDL
 
 ---
 
